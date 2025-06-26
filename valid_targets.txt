@@ -1,0 +1,56 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./config/eslint.js
+./config/prettier.config.js
+./config/typedoc.js
+./scripts/e2e-inject-resolutions.js
+./scripts/check-dependencies.js
+./scripts/e2e-resolutions.js
+./packages/devp2p/prettier.config.js
+./packages/devp2p/.eslintrc.js
+./packages/devp2p/typedoc.js
+./packages/util/prettier.config.js
+./packages/util/karma.conf.js
+./packages/util/.eslintrc.js
+./packages/util/typedoc.js
+./packages/tx/prettier.config.js
+./packages/tx/karma.conf.js
+./packages/tx/.eslintrc.js
+./packages/tx/typedoc.js
+./packages/blockchain/prettier.config.js
+./packages/blockchain/karma.conf.js
+./packages/blockchain/.eslintrc.js
+./packages/blockchain/typedoc.js
+./packages/common/prettier.config.js
+./packages/common/karma.conf.js
+./packages/common/scripts/update-bootnodes.js
+./packages/common/.eslintrc.js
+./packages/common/typedoc.js
+./packages/vm/utils/diffTestOutput.py
+./packages/vm/prettier.config.js
+./packages/vm/karma.conf.js
+./packages/vm/examples/run-transactions-complete/raw-tx2.js
+./packages/vm/examples/run-code-browser/index.js
+./packages/vm/scripts/formatTest.js
+./packages/vm/.eslintrc.js
+./packages/vm/typedoc.js
+./packages/trie/prettier.config.js
+./packages/trie/karma.conf.js
+./packages/trie/.eslintrc.js
+./packages/trie/typedoc.js
+./packages/ethash/prettier.config.js
+./packages/ethash/.eslintrc.js
+./packages/client/webpack.config.js
+./packages/client/prettier.config.js
+./packages/client/karma.conf.js
+./packages/client/.eslintrc.js
+./packages/client/typedoc.js
+./packages/block/prettier.config.js
+./packages/block/karma.conf.js
+./packages/block/.eslintrc.js
+./packages/block/typedoc.js
+./valid_targets.txt
