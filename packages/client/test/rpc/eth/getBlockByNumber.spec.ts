@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { bufferToHex } from 'ethereumjs-util'
 import tape from 'tape'
 import { INVALID_PARAMS } from '../../../lib/rpc/error-code'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env client
 
 import { Server as RPCServer } from 'jayson/promise'

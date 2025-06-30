@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { readFileSync } from 'fs'
 import Benchmark = require('benchmark')
 import Common, { Chain, Hardfork } from '@ethereumjs/common'

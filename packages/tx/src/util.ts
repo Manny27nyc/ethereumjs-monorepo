@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Common from '@ethereumjs/common'
 import { bufferToHex, setLengthLeft, toBuffer } from 'ethereumjs-util'
 import { AccessList, AccessListBuffer, AccessListItem, isAccessList } from './types'

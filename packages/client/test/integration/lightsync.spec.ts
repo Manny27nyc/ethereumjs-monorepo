@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Event } from '../../lib/types'
 import { wait, setup, destroy } from './util'

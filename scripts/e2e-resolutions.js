@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
   This script generates a `resolutions.json` file for use in an E2E setup script.
   The object can be injected into a target package.json under

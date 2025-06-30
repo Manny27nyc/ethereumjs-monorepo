@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EthereumService, EthereumServiceOptions } from './ethereumservice'
 import { FullSynchronizer } from '../sync/fullsync'
 import { EthProtocol } from '../net/protocol/ethprotocol'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TransactionFactory, TypedTransaction } from '@ethereumjs/tx'
 import { Config } from '../config'
 import { Peer } from '../net/peer'

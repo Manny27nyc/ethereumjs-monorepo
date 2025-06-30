@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { randomBytes } from 'crypto'
 import * as secp256k1 from 'secp256k1'
 import test, { Test } from 'tape'

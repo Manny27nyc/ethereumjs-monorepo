@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Address, BN } from 'ethereumjs-util'
 import { Block } from '@ethereumjs/block'
 import VM from './index'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { keccak224, keccak384, keccak256 as k256, keccak512 } from 'ethereum-cryptography/keccak'
 const createHash = require('create-hash')
 import * as rlp from 'rlp'

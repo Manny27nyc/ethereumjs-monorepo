@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Server as RPCServer, HttpServer } from 'jayson/promise'
 import VM from '@ethereumjs/vm'

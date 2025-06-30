@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { toBuffer } from 'ethereumjs-util'
 import { CheckpointTrie } from '../src'

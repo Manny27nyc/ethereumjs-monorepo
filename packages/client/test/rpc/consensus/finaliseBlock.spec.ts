@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { INVALID_PARAMS } from '../../../lib/rpc/error-code'
 import { params, baseRequest, baseSetup } from '../helpers'

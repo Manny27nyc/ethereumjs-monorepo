@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import BN_export from 'bn.js'
 import * as rlp_export from 'rlp'

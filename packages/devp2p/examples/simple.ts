@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import chalk from 'chalk'
 import Common, { Chain } from '@ethereumjs/common'
 import { DPT } from '../src/index'

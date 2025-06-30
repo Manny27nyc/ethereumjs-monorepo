@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const Buffer = require('buffer').Buffer
 import BN from 'bn.js'
 

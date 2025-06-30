@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import multiaddr from 'multiaddr'
 import PeerId from 'peer-id'
 import { Libp2pMuxedStream as MuxedStream } from '../../types'

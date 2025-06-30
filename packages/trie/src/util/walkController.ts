@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BaseTrie } from '..'
 import { FoundNodeFunction } from '../baseTrie'
 import { PrioritizedTaskExecutor } from '../prioritizedTaskExecutor'

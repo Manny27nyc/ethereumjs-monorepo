@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const bidSig = '0x454a2ab3'
 const time = '0000000000000000000000000000000000000000000000000000000000000045'
 

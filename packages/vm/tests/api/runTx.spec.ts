@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Account, Address, BN, MAX_INTEGER } from 'ethereumjs-util'
 import { Block } from '@ethereumjs/block'

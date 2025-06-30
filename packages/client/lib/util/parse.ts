@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { URL } from 'url'
 import multiaddr from 'multiaddr'
 import { BlockHeader } from '@ethereumjs/block'

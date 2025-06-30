@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import Common, { Chain, Hardfork } from '@ethereumjs/common'
 import { Transaction } from '@ethereumjs/tx'

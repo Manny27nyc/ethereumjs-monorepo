@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { FeeMarketEIP1559Transaction } from '@ethereumjs/tx'
 import Common, { Chain, Hardfork } from '@ethereumjs/common'

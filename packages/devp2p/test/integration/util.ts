@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Test } from 'tape'
 import { DPT, ETH, RLPx, genPrivateKey } from '../../src'
 import Common, { Chain } from '@ethereumjs/common'

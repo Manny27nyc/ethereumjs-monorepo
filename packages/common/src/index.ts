@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EventEmitter } from 'events'
 import { buf as crc32Buffer } from 'crc-32'
 import { BN, BNLike, toType, TypeOutput, intToBuffer } from 'ethereumjs-util'

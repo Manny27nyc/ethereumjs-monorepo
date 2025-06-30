@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FlowControl } from '../net/protocol/flowcontrol'
 import { Chain } from '../blockchain'
 import { Service, ServiceOptions } from './service'

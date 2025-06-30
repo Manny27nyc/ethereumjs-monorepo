@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // eslint-disable-next-line implicit-dependencies/no-implicit
 import type { LevelUp } from 'levelup'
 const level = require('level-mem')

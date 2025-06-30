@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import chalk from 'chalk'
 import { createLogger, format, transports, Logger as WinstonLogger } from 'winston'
 

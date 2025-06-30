@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN, keccak256 } from 'ethereumjs-util'
 const MR = require('miller-rabin')
 

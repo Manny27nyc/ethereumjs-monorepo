@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Semaphore from 'semaphore-async-await'
 import { keccak, KECCAK256_RLP } from 'ethereumjs-util'
 import { DB, BatchDBOp, PutBatch } from './db'

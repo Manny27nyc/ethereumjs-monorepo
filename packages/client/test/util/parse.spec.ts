@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape-catch'
 import multiaddr from 'multiaddr'
 import { parseMultiaddrs, parseTransports, parseParams, parseGenesisState } from '../../lib/util'

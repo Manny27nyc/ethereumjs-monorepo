@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  *  This is a browser polyfill stub which replaces the Node DNS module.
  *  DNS does not have a standard browser polyfill. Users who want to bundle

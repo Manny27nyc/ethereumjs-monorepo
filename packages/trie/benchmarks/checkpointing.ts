@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { pseudoRandomBytes } from 'crypto'
 import { CheckpointTrie } from '../dist'
 

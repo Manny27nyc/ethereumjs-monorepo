@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import assert from 'assert'
 import BN from 'bn.js'
 import * as rlp from 'rlp'

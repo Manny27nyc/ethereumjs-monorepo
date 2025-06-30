@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import crypto, { Decipher } from 'crypto'
 import { debug as createDebugLogger } from 'debug'
 import { publicKeyCreate, ecdh, ecdsaRecover, ecdsaSign } from 'secp256k1'

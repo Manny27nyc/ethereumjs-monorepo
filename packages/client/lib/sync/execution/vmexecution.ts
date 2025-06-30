@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Execution, ExecutionOptions } from './execution'
 import { short } from '../../util'
 import VM from '@ethereumjs/vm'

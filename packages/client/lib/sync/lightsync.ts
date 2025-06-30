@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN } from 'ethereumjs-util'
 import { BlockHeader } from '@ethereumjs/block'
 import { Peer } from '../net/peer/peer'

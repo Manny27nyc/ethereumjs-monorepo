@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { middleware } from '../validation'
 import { addHexPrefix } from 'ethereumjs-util'
 import type { EthereumClient } from '../..'

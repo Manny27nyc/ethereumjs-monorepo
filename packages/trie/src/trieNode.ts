@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as rlp from 'rlp'
 import { keccak256 } from 'ethereumjs-util'
 import { bufferToNibbles, nibblesToBuffer } from './util/nibbles'

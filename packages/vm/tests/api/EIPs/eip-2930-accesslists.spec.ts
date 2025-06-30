@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Account, Address, BN, bufferToHex } from 'ethereumjs-util'
 import Common, { Chain, Hardfork } from '@ethereumjs/common'

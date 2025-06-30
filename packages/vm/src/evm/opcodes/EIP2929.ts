@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Common from '@ethereumjs/common'
 import { Address, BN } from 'ethereumjs-util'
 import { EIP2929StateManager } from '../../state/interface'

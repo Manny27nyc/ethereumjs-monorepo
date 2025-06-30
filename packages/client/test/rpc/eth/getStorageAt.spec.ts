@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Address, BN, keccak } from 'ethereumjs-util'
 import Blockchain from '@ethereumjs/blockchain'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN, MAX_INTEGER } from 'ethereumjs-util'
 const { ERROR, VmError } = require('../exceptions')
 

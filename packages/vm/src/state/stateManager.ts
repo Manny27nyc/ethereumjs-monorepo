@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const Set = require('core-js-pure/es/set')
 import { debug as createDebugLogger } from 'debug'
 import { SecureTrie as Trie } from 'merkle-patricia-tree'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Address, Account, BN, toBuffer, pubToAddress } from 'ethereumjs-util'
 import { Transaction, TxData } from '@ethereumjs/tx'
 import VM from '../..'

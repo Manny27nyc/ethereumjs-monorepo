@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BlockHeader } from './header'
 import { BlockOptions } from './types'
 import { numberToHex } from './helpers'

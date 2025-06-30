@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EthereumService, EthereumServiceOptions } from './ethereumservice'
 import { Peer } from '../net/peer/peer'
 import { LightSynchronizer } from '../sync/lightsync'

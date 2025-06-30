@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as tape from 'tape'
 import { addHexPrefix, BN, toBuffer, rlp } from 'ethereumjs-util'
 import { Block } from '@ethereumjs/block'

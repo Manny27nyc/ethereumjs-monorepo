@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Config } from '../config'
 import EthereumClient from '../client'
 import * as modules from './modules'

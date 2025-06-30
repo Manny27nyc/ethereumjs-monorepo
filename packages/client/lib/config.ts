@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Common, { Hardfork } from '@ethereumjs/common'
 import VM from '@ethereumjs/vm'
 import { genPrivateKey } from '@ethereumjs/devp2p'

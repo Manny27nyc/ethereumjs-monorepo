@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Config } from '../../config'
 import { Chain } from '../../blockchain'
 // eslint-disable-next-line implicit-dependencies/no-implicit

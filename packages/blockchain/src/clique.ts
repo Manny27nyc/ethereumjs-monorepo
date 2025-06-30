@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Address, BN } from 'ethereumjs-util'
 
 // Clique Signer State: [blockNumber, signers]

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import minimist from 'minimist'
 
 const argv = minimist(process.argv.slice(2))

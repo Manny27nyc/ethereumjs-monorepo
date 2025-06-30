@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { bufferToHex } from 'ethereumjs-util'
 import { getClientVersion } from '../../util'
 import { middleware } from '../validation'

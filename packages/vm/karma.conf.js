@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Karma configuration
 // Generated on Fri Mar 01 2019 22:02:29 GMT+0100 (CET)
 

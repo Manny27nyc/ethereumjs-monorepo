@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Transaction } from '../src'
 import { toBuffer } from 'ethereumjs-util'
 import Common, { Chain, Hardfork } from '@ethereumjs/common'

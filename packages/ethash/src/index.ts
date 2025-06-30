@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN, keccak, keccak256, rlphash, zeros, TWO_POW256 } from 'ethereumjs-util'
 import {
   params,

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export enum ERROR {
   OUT_OF_GAS = 'out of gas',
   CODESTORE_OUT_OF_GAS = 'code store out of gas',

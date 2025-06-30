@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //  Error code from JSON-RPC 2.0 spec
 //  reference: http://www.jsonrpc.org/specification#error_object
 export const PARSE_ERROR = -32700

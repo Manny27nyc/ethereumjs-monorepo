@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Common, { Chain, Hardfork } from '@ethereumjs/common'
 import {
   Address,

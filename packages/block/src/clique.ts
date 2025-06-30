@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN } from 'ethereumjs-util'
 
 // Fixed number of extra-data prefix bytes reserved for signer vanity

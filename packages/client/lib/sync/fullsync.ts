@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN } from 'ethereumjs-util'
 import { Peer } from '../net/peer/peer'
 import { short } from '../util'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import pipe from 'it-pipe'
 import pushable from 'it-pushable'
 import { Libp2pMuxedStream as MuxedStream } from '../../types'

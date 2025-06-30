@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Block, Blockchain } from '../src'
 
 // Helper class to setup a mock Blockchain

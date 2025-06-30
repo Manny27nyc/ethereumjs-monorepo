@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { CheckpointDB as DB } from '../src/checkpointDb'
 import { BatchDBOp } from '../src/db'

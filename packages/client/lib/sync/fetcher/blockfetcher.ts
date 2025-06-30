@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Block, BlockBodyBuffer, BlockBuffer } from '@ethereumjs/block'
 import { Peer } from '../../net/peer'
 import { EthProtocolMethods } from '../../net/protocol'

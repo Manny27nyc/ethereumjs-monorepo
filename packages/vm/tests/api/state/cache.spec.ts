@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { SecureTrie as Trie } from 'merkle-patricia-tree'
 import { Account, Address, BN } from 'ethereumjs-util'

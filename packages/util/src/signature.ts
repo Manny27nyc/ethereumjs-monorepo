@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ecdsaSign, ecdsaRecover, publicKeyConvert } from 'ethereum-cryptography/secp256k1'
 import BN from 'bn.js'
 import { toBuffer, setLengthLeft, bufferToHex, bufferToInt } from './bytes'

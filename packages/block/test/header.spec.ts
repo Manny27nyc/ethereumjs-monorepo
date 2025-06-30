@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Address, BN, zeros, KECCAK256_RLP, KECCAK256_RLP_ARRAY, rlp } from 'ethereumjs-util'
 import Common, { Chain, Hardfork } from '@ethereumjs/common'

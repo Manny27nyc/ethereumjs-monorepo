@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This files contain examples on how to use this module.
 // You can run them with ts-node, as this project is developed in TypeScript.
 // Install the dependencies and run `npx ts-node examples/transactions.ts`

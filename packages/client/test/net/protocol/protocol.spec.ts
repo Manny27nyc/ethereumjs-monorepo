@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape-catch'
 import td from 'testdouble'
 import { BoundProtocol, Protocol, Sender } from '../../../lib/net/protocol'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Sender } from './sender'
 import { ETH as Devp2pETH, LES as Devp2pLES } from '@ethereumjs/devp2p'
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BaseTrie as Trie } from 'merkle-patricia-tree'
 import { BN, rlp, keccak256, KECCAK256_RLP } from 'ethereumjs-util'
 import Common, { ConsensusType } from '@ethereumjs/common'

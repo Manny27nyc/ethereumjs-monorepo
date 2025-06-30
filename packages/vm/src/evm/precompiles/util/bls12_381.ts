@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { padToEven, BN } from 'ethereumjs-util'
 import { VmError, ERROR } from '../../../exceptions'
 

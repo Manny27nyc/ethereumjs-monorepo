@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import assert from 'assert'
 import { randomBytes } from 'crypto'
 import LRUCache from 'lru-cache'

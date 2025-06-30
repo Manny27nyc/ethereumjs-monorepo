@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import LRUCache from 'lru-cache'
 import { debug as createDebugLogger } from 'debug'
 import { KBucket } from './kbucket'

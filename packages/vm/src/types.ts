@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Log } from './evm/types'
 
 export type TxReceipt = PreByzantiumTxReceipt | PostByzantiumTxReceipt | EIP2930Receipt

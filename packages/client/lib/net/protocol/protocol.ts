@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Config } from '../../config'
 import { Peer } from '../peer/peer'
 import { BoundProtocol } from './boundprotocol'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import PeerId from 'peer-id'
 // eslint-disable-next-line implicit-dependencies/no-implicit
 import crypto from 'libp2p-crypto'

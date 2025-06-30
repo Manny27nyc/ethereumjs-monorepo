@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const fs = require('fs')
 const dir = require('node-dir')
 const path = require('path')

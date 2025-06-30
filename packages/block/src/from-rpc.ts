@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TransactionFactory, TypedTransaction, TxData } from '@ethereumjs/tx'
 import { toBuffer, setLengthLeft } from 'ethereumjs-util'
 import { Block, BlockOptions } from './index'

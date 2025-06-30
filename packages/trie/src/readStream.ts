@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { nibblesToBuffer } from './util/nibbles'
 import { Trie as BaseTrie } from './baseTrie'
 const Readable = require('readable-stream').Readable

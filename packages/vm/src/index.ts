@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SecureTrie as Trie } from 'merkle-patricia-tree'
 import { Account, Address } from 'ethereumjs-util'
 import Blockchain from '@ethereumjs/blockchain'

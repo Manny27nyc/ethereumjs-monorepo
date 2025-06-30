@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import multiaddr from 'multiaddr'
 import { Config } from '../../config'
 import { MultiaddrLike, KeyLike, DnsNetwork } from '../../types'

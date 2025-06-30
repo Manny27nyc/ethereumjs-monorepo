@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import test from 'tape'
 import { ENR } from '../src/dns'
 import testdata from './testdata.json'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import EventEmitter from 'events'
 import pipe from 'it-pipe'
 import pushable from 'it-pushable'

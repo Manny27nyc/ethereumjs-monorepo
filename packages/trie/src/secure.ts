@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { keccak256 } from 'ethereumjs-util'
 import { CheckpointTrie } from './checkpointTrie'
 import { Proof } from './baseTrie'

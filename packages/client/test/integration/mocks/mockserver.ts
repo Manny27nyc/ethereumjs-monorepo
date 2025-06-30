@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Server, ServerOptions } from '../../../lib/net/server'
 import { Event } from '../../../lib/types'
 import MockPeer from './mockpeer'

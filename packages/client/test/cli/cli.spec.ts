@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { spawn } from 'child_process'
 import tape from 'tape'
 

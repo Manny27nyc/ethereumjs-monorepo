@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape-catch'
 import { Libp2pSender } from '../../../lib/net/protocol'
 const DuplexPair = require('it-pair/duplex')

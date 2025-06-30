@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Buffer } from 'buffer'
 import { BN, rlp, toBuffer, bufferToHex, intToBuffer, unpadBuffer } from 'ethereumjs-util'

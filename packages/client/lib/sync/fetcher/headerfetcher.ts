@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BlockFetcherBase, BlockFetcherOptions, JobTask } from './blockfetcherbase'
 import { Peer } from '../../net/peer'
 import { FlowControl, LesProtocolMethods } from '../../net/protocol'

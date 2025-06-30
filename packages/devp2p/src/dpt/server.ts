@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EventEmitter } from 'events'
 import * as dgram from 'dgram'
 import ms from 'ms'

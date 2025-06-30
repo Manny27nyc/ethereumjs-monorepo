@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as net from 'net'
 import * as os from 'os'
 import ms from 'ms'

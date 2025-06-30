@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN } from 'ethereumjs-util'
 
 // Mockchain: only used to provide blockhashes for the BLOCKHASH opcode for the VM. Has no other uses.

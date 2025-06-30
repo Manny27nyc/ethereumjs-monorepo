@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Define a library component for lazy loading. Borrowed from
  * https://github.com/bcoin-org/bcoin/blob/master/lib/bcoin.js

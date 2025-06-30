@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createCipheriv } from 'crypto'
 import createKeccakHash from 'keccak'
 import { xor } from '../util'

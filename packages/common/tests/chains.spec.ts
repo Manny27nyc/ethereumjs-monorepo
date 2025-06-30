@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import Common, { Chain, ConsensusAlgorithm, ConsensusType, Hardfork } from '../src/'
 import { BN } from 'ethereumjs-util'

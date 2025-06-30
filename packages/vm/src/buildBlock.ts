@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Address, BN, toBuffer } from 'ethereumjs-util'
 import { encode } from 'rlp'
 import { BaseTrie as Trie } from 'merkle-patricia-tree'

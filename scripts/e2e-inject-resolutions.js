@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
   This script sets hardhat-core's ethereumjs dependencies to the versions created from the e2e-resolutions.js script.
  */

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Peer } from '../peer/peer'
 
 interface Mrc {

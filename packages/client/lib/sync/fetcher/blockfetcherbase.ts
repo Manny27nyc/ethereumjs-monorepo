@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Fetcher, FetcherOptions } from './fetcher'
 import { BN } from 'ethereumjs-util'
 import { Chain } from '../../blockchain'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { middleware, validators } from '../validation'
 import type { Chain } from '../../blockchain'
 import type { EthereumClient } from '../..'

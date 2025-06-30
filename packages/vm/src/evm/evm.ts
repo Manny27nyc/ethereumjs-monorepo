@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { debug as createDebugLogger } from 'debug'
 import {
   Account,

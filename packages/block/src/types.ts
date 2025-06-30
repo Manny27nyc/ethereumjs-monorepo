@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AddressLike, BNLike, BufferLike } from 'ethereumjs-util'
 import Common from '@ethereumjs/common'
 import { TxData, JsonTx, AccessListEIP2930TxData, FeeMarketEIP1559TxData } from '@ethereumjs/tx'

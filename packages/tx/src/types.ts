@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN, AddressLike, BNLike, BufferLike, PrefixedHexString } from 'ethereumjs-util'
 import Common from '@ethereumjs/common'
 import { default as Transaction } from './legacyTransaction'

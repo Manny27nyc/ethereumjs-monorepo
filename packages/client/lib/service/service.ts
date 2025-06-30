@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Config } from '../config'
 import { PeerPool } from '../net/peerpool'
 import { Peer } from '../net/peer/peer'

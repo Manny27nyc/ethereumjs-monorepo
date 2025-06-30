@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Block } from '@ethereumjs/block'
 import Blockchain from '@ethereumjs/blockchain'
 import VM from './index'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Block, BlockData, HeaderData } from '@ethereumjs/block'
 import Blockchain from '@ethereumjs/blockchain'

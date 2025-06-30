@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape-catch'
 import VM from '@ethereumjs/vm'
 import Blockchain from '@ethereumjs/blockchain'

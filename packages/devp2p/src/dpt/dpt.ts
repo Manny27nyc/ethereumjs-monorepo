@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import ms from 'ms'
 import { EventEmitter } from 'events'
 import { publicKeyCreate } from 'secp256k1'

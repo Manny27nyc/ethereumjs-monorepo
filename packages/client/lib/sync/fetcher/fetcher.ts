@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Readable, Writable } from 'stream'
 const Heap = require('qheap')
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { addHexPrefix, keccak, toBuffer } from 'ethereumjs-util'
 import { middleware, validators } from '../validation'
 import { getClientVersion } from '../../util'

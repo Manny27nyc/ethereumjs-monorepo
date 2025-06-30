@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import BN from 'bn.js'
 import { intToBuffer, stripHexPrefix, padToEven, isHexString, isHexPrefixed } from 'ethjs-util'
 import { PrefixedHexString, TransformableToArray, TransformableToBuffer } from './types'

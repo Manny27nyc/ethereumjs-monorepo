@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import events from 'events'
 import { MultiaddrLike } from './types'
 import { Config } from './config'

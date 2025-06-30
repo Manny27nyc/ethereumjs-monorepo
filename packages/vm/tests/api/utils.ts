@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Account, Address, BN } from 'ethereumjs-util'
 import Blockchain from '@ethereumjs/blockchain'
 import VM from '../../src/index'

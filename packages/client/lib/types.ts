@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EventEmitter } from 'events'
 import type multiaddr from 'multiaddr'
 import { BN } from 'ethereumjs-util'

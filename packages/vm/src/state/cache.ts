@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Account, Address } from 'ethereumjs-util'
 const Tree = require('functional-red-black-tree')
 

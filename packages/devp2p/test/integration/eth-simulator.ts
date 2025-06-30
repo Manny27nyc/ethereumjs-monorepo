@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import test from 'tape'
 import * as devp2p from '../../src'
 import * as util from './util'

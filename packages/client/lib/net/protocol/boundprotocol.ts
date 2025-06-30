@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Message, Protocol } from '../protocol/protocol'
 import { Peer } from '../peer/peer'
 import { Sender } from './sender'

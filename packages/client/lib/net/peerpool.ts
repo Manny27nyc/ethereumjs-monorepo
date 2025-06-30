@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Config } from '../config'
 import { Event } from '../types'
 import { Peer } from './peer'

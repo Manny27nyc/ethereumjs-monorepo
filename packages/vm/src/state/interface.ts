@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Account, Address } from 'ethereumjs-util'
 import { AccessList } from '@ethereumjs/tx'
 

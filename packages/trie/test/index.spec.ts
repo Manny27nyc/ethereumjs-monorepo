@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import * as rlp from 'rlp'
 import { KECCAK256_NULL } from 'ethereumjs-util'

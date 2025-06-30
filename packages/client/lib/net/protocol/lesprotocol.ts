@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN, bufferToInt } from 'ethereumjs-util'
 import { BlockHeader, BlockHeaderBuffer } from '@ethereumjs/block'
 import { Chain } from './../../blockchain'

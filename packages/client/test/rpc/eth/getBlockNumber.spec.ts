@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { intToHex, BN } from 'ethereumjs-util'
 import { startRPC, createManager, createClient, params, baseRequest } from '../helpers'

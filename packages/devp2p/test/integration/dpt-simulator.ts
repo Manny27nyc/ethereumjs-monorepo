@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import async from 'async'
 import test from 'tape'
 import * as util from './util'

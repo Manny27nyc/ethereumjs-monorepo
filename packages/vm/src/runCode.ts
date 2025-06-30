@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
 
 This is the core of the Ethereum Virtual Machine (EVM or just VM).

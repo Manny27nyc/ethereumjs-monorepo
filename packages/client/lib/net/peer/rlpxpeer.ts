@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { randomBytes } from 'crypto'
 import {
   Capabilities as Devp2pCapabilities,

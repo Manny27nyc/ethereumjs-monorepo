@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DBOp, DBTarget } from './operation'
 import { BN, rlp } from 'ethereumjs-util'
 import { Block, BlockHeader } from '@ethereumjs/block'

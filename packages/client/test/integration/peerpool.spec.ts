@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape'
 import { Config } from '../../lib/config'
 import { EthProtocol } from '../../lib/net/protocol'

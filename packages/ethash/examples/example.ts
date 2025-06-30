@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Ethash from '../src'
 
 const ethash = new Ethash()

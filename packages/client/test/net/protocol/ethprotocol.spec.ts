@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import tape from 'tape-catch'
 import { BN } from 'ethereumjs-util'
 import { Chain } from '../../../lib/blockchain/chain'

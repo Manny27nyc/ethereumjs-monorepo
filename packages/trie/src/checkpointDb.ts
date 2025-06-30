@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DB, BatchDBOp, ENCODING_OPTS } from './db'
 // eslint-disable-next-line implicit-dependencies/no-implicit
 import type { LevelUp } from 'levelup'

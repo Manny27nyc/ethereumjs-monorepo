@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Socket } from 'net'
 import { EventEmitter } from 'events'
 import * as rlp from 'rlp'

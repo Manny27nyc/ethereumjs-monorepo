@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import EventEmitter from 'events'
 import { Sender } from '../../../lib/net/protocol'
 import { Pushable } from './mockpeer'

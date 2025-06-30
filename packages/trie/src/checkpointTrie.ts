@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Trie as BaseTrie } from './baseTrie'
 import { CheckpointDB } from './checkpointDb'
 

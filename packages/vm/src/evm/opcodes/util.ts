@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Common from '@ethereumjs/common'
 import { BN, keccak256, setLengthRight, setLengthLeft } from 'ethereumjs-util'
 import { ERROR, VmError } from './../../exceptions'

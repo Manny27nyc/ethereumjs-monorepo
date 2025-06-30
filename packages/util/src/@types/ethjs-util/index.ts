@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare module 'ethjs-util' {
   /**
    * @description Returns a `Boolean` on whether or not the a `String` starts with '0x'

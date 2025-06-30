@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { exit } from 'process'
 import tape from 'tape'
 import Common from '@ethereumjs/common'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Address } from 'ethereumjs-util'
 import { Block, Blockchain } from '../src'
 

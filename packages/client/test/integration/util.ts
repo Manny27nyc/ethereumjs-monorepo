@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Config } from '../../lib/config'
 import { FullEthereumService, LightEthereumService } from '../../lib/service'
 import MockServer from './mocks/mockserver'

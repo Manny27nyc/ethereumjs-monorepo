@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BN, rlp } from 'ethereumjs-util'
 import { Block, BlockHeader } from '@ethereumjs/block'
 import Common, { Chain, Hardfork } from '@ethereumjs/common'

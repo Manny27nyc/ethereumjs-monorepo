@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Benchmark = require('benchmark')
 import { runTrie } from './random'
 import { iterTest } from './checkpointing'
